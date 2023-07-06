@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_divide">/</string>
+    <string name="_multiply">*</string>
+    <string name="_minus">-</string>
+    <string name="_plus">+</string>
+    <string name="_dot">.</string>
+    <string name="_equal">=</string>
+    <string name="_zero">0</string>
+    <string name="_one">1</string>
+    <string name="_two">2</string>
+    <string name="_three">3</string>
+    <string name="_four">4</string>
+    <string name="_five">5</string>
+    <string name="_plu">+</string>
+    <string name="_subtract">-</string>
+    <string name="_equ">=</string>
+    <string name="_dots">.</string>
+    <string name="_multipl">*</string>
+    <string name="_divides">/</string>
+    <string name="_nine">9</string>
+    <string name="_eight">8</string>
+    <string name="_six">6</string>
+    <string name="_seven">7</string>
+</resources>
